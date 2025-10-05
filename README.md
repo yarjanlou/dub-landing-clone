@@ -1,7 +1,7 @@
 # Dub Landing Page Clone
 
 A **pixel-perfect clone of [Dub.co](https://dub.co)** main landing page, built to practice modern front-end development skills.  
-Implemented using **Next.js 14**, **Tailwind CSS**, **TypeScript**, and **Framer Motion** for animations and interactivity.
+Implemented using **Next.js 15.5.4**, **Tailwind CSS**, **TypeScript**, and **Framer Motion** for animations and interactivity.
 
 ## 🚀 Features
 
@@ -14,7 +14,7 @@ Implemented using **Next.js 14**, **Tailwind CSS**, **TypeScript**, and **Framer
 
 ## 🖥️ Tech Stack
 
-- **Next.js 14** (App Router)  
+- **Next.js 15.5.4** (App Router)  
 - **React 18**  
 - **TypeScript** (optional, adds type safety)  
 - **Tailwind CSS** (utility-first styling)  
