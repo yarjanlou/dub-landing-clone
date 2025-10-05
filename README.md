@@ -15,7 +15,7 @@ Implemented using **Next.js 15.5.4**, **Tailwind CSS**, **TypeScript**, and **Fr
 ## 🖥️ Tech Stack
 
 - **Next.js 15.5.4** (App Router)  
-- **React 18**  
+- **React 19.1.0**  
 - **TypeScript** (optional, adds type safety)  
 - **Tailwind CSS** (utility-first styling)  
 - **Framer Motion** (smooth animations)  
