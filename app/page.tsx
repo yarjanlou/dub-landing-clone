@@ -1,5 +1,6 @@
 import MianHeader from "@/components/main-header/MianHeader";
-import HeroSection from "./sections/heroSection/Index";
+import HeroSection from "./sections/heroSection/HeroSection";
+import FeaturesSection from "./sections/featuresSection/FeaturesSection";
 
 export default function HomePage() {
   return (
@@ -7,6 +8,7 @@ export default function HomePage() {
       <MianHeader />
       <main>
         <HeroSection />
+        <FeaturesSection />
       </main>
       <footer></footer>
     </div>
